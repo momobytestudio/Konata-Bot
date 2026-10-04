@@ -1,2 +1,4 @@
+#Konata Bot
+
 © 2026 MomoByte Studio — All Rights Reserved.
 This source code is provided for viewing purposes only. You may not copy, modify, redistribute, or use this code or substantial portions of it without explicit permission.
